@@ -114,4 +114,4 @@ export default class BurgerBuilder extends Component {
       </Aux>
     );
   }
-}
+};
